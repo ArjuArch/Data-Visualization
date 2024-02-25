@@ -1,10 +1,10 @@
 # Data-Visualization
 Covers important aspects like:
 
--Data Manipulation using Pandas
+* Data Manipulation using Pandas
 
--Comparision between Pandas and Polars
+* Comparision between Pandas and Polars
 
--Perform scientific computing using Numpy
+* Perform scientific computing using Numpy
 
--Data Visualization using Matplotlib, Seaborn, Bokeh, Plotly
+*Data Visualization using Matplotlib, Seaborn, Bokeh, Plotly
