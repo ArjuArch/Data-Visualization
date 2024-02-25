@@ -1,5 +1,5 @@
 # Data-Visualization
-Covers important aspects like:
+Covered Concepts:
 
 * Data Manipulation using Pandas
 
@@ -7,4 +7,4 @@ Covers important aspects like:
 
 * Perform scientific computing using Numpy
 
-*Data Visualization using Matplotlib, Seaborn, Bokeh, Plotly
+* Data Visualization using Matplotlib, Seaborn, Bokeh, Plotly
