@@ -1,2 +1,6 @@
 # Data-Visualization
-Data Visualization with Python with some basics of Pandas and Polars
+Covers important aspects like:
+-Data Manipulation using Pandas
+-Comparision between Pandas and Polars
+-Perform scientific computing using Numpy
+-Data Visualization using Matplotlib, Seaborn, Bokeh, Plotly
